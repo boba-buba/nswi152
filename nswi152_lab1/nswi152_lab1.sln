@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nswi152_lab1", "nswi152_lab1.csproj", "{F7750C83-1CD6-4636-A413-C6FC470DC6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebJob", "..\DemoWebJob\DemoWebJob.csproj", "{E3DFF86B-C32D-41E1-A640-C6B130377027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7750C83-1CD6-4636-A413-C6FC470DC6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7750C83-1CD6-4636-A413-C6FC470DC6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7750C83-1CD6-4636-A413-C6FC470DC6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7750C83-1CD6-4636-A413-C6FC470DC6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3DFF86B-C32D-41E1-A640-C6B130377027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DFF86B-C32D-41E1-A640-C6B130377027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DFF86B-C32D-41E1-A640-C6B130377027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DFF86B-C32D-41E1-A640-C6B130377027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C414684-4730-4190-B398-400136887EB0}
+	EndGlobalSection
+EndGlobal
