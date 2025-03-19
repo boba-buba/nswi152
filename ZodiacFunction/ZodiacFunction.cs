@@ -10,7 +10,7 @@ namespace ZodiacFunction
         [Function("GetSign")]
         public async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req, ILogger log)
         {
-            log.LogInformation("C# HTTP trigger function processed a request.");
+            //log.LogInformation("C# HTTP trigger function processed a request.");
 
             string dateOfBirthQuery = req.Query["dateOfBirth"];
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();

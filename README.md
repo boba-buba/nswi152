@@ -30,4 +30,11 @@
 
 ![image](img/Event_Hub_3.png)
 
-###
+### Function Apps
+
+Pro uspesne spusteni bylo potreba zakomentovat radek
+![iamge](img/Functions_App_3.png)
+
+![image](img/Functions_App_1.png)
+
+![image](img/Functions_App_2.png)
