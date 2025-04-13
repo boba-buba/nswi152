@@ -78,3 +78,20 @@ Rustina je muj rodny jazyk, ne anglictina.
 ![alt text](img/KeyVaultDemo_2.png)
 
 ![alt text](img/KeyVaultDemo_3.png)
+
+
+## Open AI
+### Example 1
+![alt text](img/example1_1.png)
+
+### Example 2
+![alt text](img/example2_1.png)
+
+### Example 3
+![alt text](img/example3_1.png)
+
+### Example 4
+![alt text](img/example4_1.png)
+
+### Example 5
+![alt text](img/example5_1.png)
